@@ -1,4 +1,9 @@
 # Lista de comandos básicos do Git
+### Participantes da Room 4:
+- Cassio Freitas 
+- Jose Iranildo
+- Ariel Lisboa
+- Luan Victor
 
 ## [1. Configuração local](./configuracao-local.md)
 
